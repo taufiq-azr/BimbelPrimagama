@@ -1,4 +1,4 @@
 # BimbelPrimagama
 
 Merupakan Sistem Penerimaan Bimbel Primagama wilayah Taluk Kuantan 
-Proeject- Group 4
+(Project- Group 4 / 2TIB / Pratikum Bengkel Pemrograman Framework)
